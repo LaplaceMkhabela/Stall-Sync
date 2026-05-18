@@ -3,3 +3,4 @@ streamlit
 pymongo 
 google-cloud-discoveryengine 
 python-dotenv
+gunicorn
